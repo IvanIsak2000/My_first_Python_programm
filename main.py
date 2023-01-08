@@ -1,9 +1,5 @@
 print('программа: кодовый замок')
 print("\nинструкция:\n  1)введите число-парооль\n 2)для выхода напишите:'выход'")
-
-# parol_ot_file=open("12345.txt")#открытие файла
-# parol_ot_file=parol_ot_file.read()#чтение файла
-# print(parol_ot_file)
 parol_ot_file = "1"
 
 while True:  # цикл проверки введёного кода с кодом
