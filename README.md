@@ -1,7 +1,17 @@
 #My_first_Python_programm
 
+
+
+
+
 Created 1.12.21 🐍
 ---
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/iOYxT3KboHPWfmWrdm/giphy.gif" width="150" height ="250"/>
+  >
+  
+</div>
+
 Update 11.01.23 🐍
 ----
 
