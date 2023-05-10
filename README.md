@@ -29,7 +29,7 @@ FUNCTIONS
 2. Set password (can be set by changing the parol_of_file variable)
 3. Exit program
 4. Hint (you must enter hint - it will show the length of the password set)
-5. You can also surrender (you must enter surrender- the program will complete the cycle and show you the correct answer)
+5. You can also surrender (you must enter surrender - the program will complete the cycle and show you the correct answer)
 E.G.
 ==
 Let's open our code and set a password like 123:
@@ -52,7 +52,7 @@ RU
 
 ЦЕЛЬ
 ==
-Программа можно использовать для ограничения пользованяи какой-либо программа 
+Программа можно использовать для ограничения пользования какой-либо программа 
 
 
 ФУНКЦИИ
@@ -60,8 +60,8 @@ RU
 1. Проверка пароля(введите )
 2. Установка пароля (можно задать, изменив переменную parol_of_file)
 3. Выход из программы
-4. Подсказка (необходимо ввести  hint- выдаст длину установленного пароля)
-5. А также можно "сдаться"(введите surrender- программа завершит цикл и покажет правильный ответ)
+4. Подсказка (необходимо ввести  hint - выдаст длину установленного пароля)
+5. А также можно "сдаться"(введите surrender - программа завершит цикл и покажет правильный ответ)
 НАПРИМЕР
 ==
 Откроем наш код и установим пароль, допустим 123:
